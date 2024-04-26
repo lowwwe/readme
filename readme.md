@@ -6,11 +6,14 @@ The speed of the blade animation and pitch of the sound will change depending on
 <br>-mouse release event
 <br>-get mouse co-ordinates 
 <br>-check which button
-+ velocity vector
++ **velocity vector**
 <br>-vector arithmic
 <br>-normalisation
 <br>-scaling
+<br>-location += velocity
 + animated sprite
+<br>-textureRectangle
+<br>-framecounter
 + boolean based input control
 + location based control
 + enum class
