@@ -1,10 +1,9 @@
 # Airwolf
-
+Second SFML lab where we will create a simple helocopter game. The helicopter will move to the mouse click location.
+The speed of the blade animation and pitch of the sound will change dependin gont he speed of the helicopter.
 ## Objectives
 + mouse input events
-+ vertexs
-+ vertex array {sf::lines}
-+ velocity
++ velocity vector
 + animated sprite
 + enum class
  
