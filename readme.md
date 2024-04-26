@@ -4,7 +4,8 @@ The speed of the blade animation and pitch of the sound will change depending on
 ## Objectives
 + **mouse input events**
 <br>-mouse release event
-+ -get mouse co-ordinates -check which button
+<br>-get mouse co-ordinates 
+<br>-check which button
 + velocity vector
 + animated sprite
 + boolean based input control
