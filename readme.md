@@ -3,7 +3,7 @@ Second SFML lab where we will create a simple helocopter game. The helicopter wi
 The speed of the blade animation and pitch of the sound will change depending on the speed of the helicopter.
 ## Objectives
 + mouse input events
-  <b	r> mouse release event
+-mouse release event
 + velocity vector
 + animated sprite
 + boolean based input control
