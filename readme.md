@@ -11,12 +11,12 @@ The speed of the blade animation and pitch of the sound will change depending on
 <br>-normalisation
 <br>-scaling
 <br>-location += velocity
-+ animated sprite
++ **animated sprite**
 <br>-textureRectangle
 <br>-framecounter
-+ boolean based input control
-+ location based control
-+ enum class
++ **boolean based input control**
++ **location based control**
++ **enum class**
  
 ![screen](screen.png) 
 #### Screenshot
