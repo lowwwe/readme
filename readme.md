@@ -7,6 +7,9 @@ The speed of the blade animation and pitch of the sound will change depending on
 <br>-get mouse co-ordinates 
 <br>-check which button
 + velocity vector
+<br>-vector arithmic
+<br>-normalisation
+<br>-scaling
 + animated sprite
 + boolean based input control
 + location based control
